@@ -4,9 +4,7 @@
   "description": "Minimal backend for full stack project",
   "main": "index.js",
   "scripts": {
-    "name": "fullstack-app",
-  "version": "1.0.0",
-  "scripts": {
+  
     "build": "cd frontend && npm install && npm run build",
     "start": "node backend/index.js"
   },
